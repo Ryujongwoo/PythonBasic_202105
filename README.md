@@ -3,3 +3,6 @@
   
 # jupyter notebook 설치  
 pip install jupyter notebook
+
+# 자동 완성을 방해하는 라이브러리 제거
+pip uninstall jedi
